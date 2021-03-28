@@ -39,5 +39,10 @@
         "ID": "8",
         "title": "Incident 8",
         "scenario": "You've received an alert that an LDAP client cannot query LDAP server"
+    },
+    {
+        "ID": "9",
+        "title": "Incident 9",
+        "scenario": "Server Out of Memory"
     }
 ]
